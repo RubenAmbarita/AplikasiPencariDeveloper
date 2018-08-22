@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#e6316a</color>
+    <color name="colorSplashscreen">#c13f51b5</color>
+
+
+
+    <color name="overlay_dark_10">#1A000000</color>
+    <color name="overlay_dark_20">#33000000</color>
+
+    <color name="grey_40">#999999</color>
+    <color name="grey_60">#666666</color>
+
+    <color name="grey_3">#f7f7f7</color>
+    <color name="overlay_light_90">#E6FFFFFF</color>
+</resources>

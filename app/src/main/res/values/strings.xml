@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Mii Developer</string>
+    <string name="title_home">Home</string>
+    <string name="title_favorit">Favorit</string>
+    <string name="title_chat">Chat</string>
+    <string name="title_notifikasi">Notifikasi</string>
+    <string name="title_profil">Profil</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="android_dropdown_arrays">
+        <item>Pilih Item</item>
+        <item>Own Laptop</item>
+        <item>Laptop from company</item>
+    </string-array>
+
+</resources>
